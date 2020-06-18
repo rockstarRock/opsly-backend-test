@@ -33,3 +33,8 @@ This should be a quick little task, but the client is paying us A Billion dollar
 Don't forget to `git push` regularly.
 
 Have fun!
+
+****************************************************************************************************************
+Hot to run :
+Clone/download the source and from the root folder run the following command
+mvn spring-boot:run
