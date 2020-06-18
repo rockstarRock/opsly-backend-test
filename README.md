@@ -36,5 +36,7 @@ Have fun!
 
 ****************************************************************************************************************
 Hot to run :
+
 Clone/download the source and from the root folder run the following command
+
 mvn spring-boot:run
